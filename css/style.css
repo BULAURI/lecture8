@@ -1,0 +1,229 @@
+body{
+    width: 1360px;
+}
+header{
+    display: flex;
+    justify-content: space-between;
+}
+.flex{
+    display: flex;
+}
+ul{
+    display: flex;
+}
+.tourism{
+    margin-top:25px ;
+    margin-left: 95px;
+    margin-bottom: 25px;
+}
+.navigation{
+    font-size: 16px;
+    color: #303134;
+    margin-right: 49px;
+    margin-top:32px;
+    margin-bottom: 30px;
+}
+.bckimg{
+    background-image:url(http://hdqwalls.com/download/1/girl-sitting-on-pier-back-view-5k-zz.jpg) ;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 1360px;
+    height: 650px;    
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.backgroundtext{
+    font-size:79px;
+    color: white;
+    text-align: center;
+}
+.backgroundtext2{
+    font-size: 18px;
+    color: white;
+}
+.s-1{
+    margin-bottom: 76px;
+}
+.s-2{
+    margin-bottom: 93px;
+}
+.div-1{
+    width: 242px;
+    height: 241px;
+    margin-left: 95px;
+}
+.s-2-text{
+    width: 79px;
+    height: 19px;
+    font-size: 16px;
+    color: #8D8D8D;
+    margin-bottom: 6px;
+}
+.s-2-title{
+    width: 206px;
+    height: 30px;
+    font-size: 26px;
+    color: #1A1A1B;
+    margin-bottom: 40px;
+}
+.s-2-p{
+    width:241px ;
+    height: 145px;
+    font-size: 16px;
+    color: #8D8D8D;
+}
+.container1{
+    width: 270px;
+    height: 328px; 
+    margin-left: 59px;
+
+}
+.flight{
+    width: 269px;
+    height: 181px;
+    object-fit: cover;
+   
+}
+.container1text{
+    font-size: 18px;
+    color: #1A1A1B;
+    margin-top: 22px;
+}
+.container1text2{
+    width: 267px;
+    height: 94px;
+    font-size: 16px;
+    margin-top: 9px;
+    color: #8D8D8D;
+    text-align: left;
+}
+
+.container2{
+    width: 270px;
+    height: 328px; 
+    margin-left: 32px;
+
+}
+.hotel{
+    width: 269px;
+    height: 181px;
+    object-fit: cover;
+   
+}
+.container2text{
+    font-size: 18px;
+    color: #1A1A1B;
+    margin-top: 22px;
+}
+.container2text2{
+    width: 267px;
+    height: 94px;
+    font-size: 16px;
+    margin-top: 9px;
+    color: #8D8D8D;
+    text-align: left;
+}
+
+.container3{
+    width: 270px;
+    height: 328px; 
+    margin-left: 32px;
+
+}
+.family{
+    width: 269px;
+    height: 181px;
+    object-fit: cover;
+   
+}
+.container3text{
+    font-size: 18px;
+    color: #1A1A1B;
+    margin-top: 22px;
+}
+.container3text2{
+    width: 267px;
+    height: 94px;
+    font-size: 16px;
+    margin-top: 9px;
+    color: #8D8D8D;
+    text-align: left;
+}
+
+.container4 {
+    width: 270px;
+    height: 328px; 
+    margin-left: 395px;
+}
+.cruise{
+    width: 269px;
+    height: 181px;
+    object-fit: cover;
+   
+}
+.container4text{
+    font-size: 18px;
+    color: #1A1A1B;
+    margin-top: 22px;
+}
+.container4text2{
+    width: 267px;
+    height: 94px;
+    font-size: 16px;
+    margin-top: 9px;
+    color: #8D8D8D;
+    text-align: left;
+}
+.container5{
+    width: 270px;
+    height: 328px; 
+    margin-left: 32px;
+
+}
+.fire{
+    width: 269px;
+    height: 181px;
+    object-fit: cover;
+   
+}
+.container5text{
+    font-size: 18px;
+    color: #1A1A1B;
+    margin-top: 22px;
+}
+.container5text2{
+    width: 267px;
+    height: 94px;
+    font-size: 16px;
+    margin-top: 9px;
+    color: #8D8D8D;
+    text-align: left;
+}
+
+.container6{
+    width: 270px;
+    height: 328px; 
+    margin-left: 32px;
+
+}
+.corporate{
+    width: 269px;
+    height: 181px;
+    object-fit: cover;
+   
+}
+.container6text{
+    font-size: 18px;
+    color: #1A1A1B;
+    margin-top: 22px;
+}
+.container6text2{
+    width: 267px;
+    height: 94px;
+    font-size: 16px;
+    margin-top: 9px;
+    color: #8D8D8D;
+    text-align: left;
+}
